@@ -1,0 +1,256 @@
+[
+   {
+     "id": 1,
+     "name": "React Native Essentials",
+     "instructor": "Alice Johnson",
+     "description": "Master the fundamental concepts of React Native development.",
+     "enrollmentStatus": "true",
+     "thumbnail": "https://www.hammermarketing.com/wp-content/uploads/sites/2/2020/11/react-native_large.jpg?resize=1200,630",
+     "duration": "8 weeks",
+     "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+     "location": "Online",
+     "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+     "syllabus": [
+       {
+         "week": 1,
+         "topic": "Introduction to React Native",
+         "content": "Overview of React Native, setting up your development environment."
+       },
+       {
+         "week": 2,
+         "topic": "Building Your First App",
+         "content": "Creating a simple mobile app using React Native components."
+       },
+       {
+         "week": 3,
+         "topic": "State Management",
+         "content": "Understanding state management in React Native applications."
+       },
+       {
+         "week": 4,
+         "topic": "API Integration",
+         "content": "Connecting your React Native app to external APIs."
+       },
+       {
+         "week": 5,
+         "topic": "Navigation in React Native",
+         "content": "Implementing navigation and routing in your mobile app."
+       },
+       {
+         "week": 6,
+         "topic": "Advanced Topics",
+         "content": "Exploring advanced concepts and best practices in React Native development."
+       }
+     ]
+   },
+   {
+     "id": 2,
+     "name": "Javascript Project Workshop",
+     "instructor": "Bob Smith",
+     "description": "Hands-on workshop to apply React Native concepts in a real-world project.",
+     "enrollmentStatus": "false",
+     "thumbnail": "https://openclipart.org/image/800px/272344",
+     "duration": "8 weeks",
+     "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+     "location": "In-person",
+     "prerequisites": ["Intermediate React Native skills"],
+     "syllabus": [
+       {
+         "week": 1,
+         "topic": "Project Kickoff",
+         "content": "Introduction to the project and defining project goals."
+       },
+       {
+         "week": 2,
+         "topic": "User Interface Design",
+         "content": "Designing the user interface for your React Native project."
+       },
+       {
+         "week": 3,
+         "topic": "State Management Strategies",
+         "content": "Exploring different state management strategies in React Native."
+       },
+       {
+         "week": 4,
+         "topic": "API Integration and Data Handling",
+         "content": "Integrating APIs and handling data in your React Native project."
+       },
+       {
+         "week": 5,
+         "topic": "Testing and Debugging",
+         "content": "Learn effective testing and debugging techniques for React Native applications."
+       },
+       {
+         "week": 6,
+         "topic": "Project Presentation",
+         "content": "Presenting and showcasing your React Native project to the class."
+       }
+     ]
+   },
+   {
+     "id": 3,
+     "name": "React Native for Beginners",
+     "instructor": "Catherine Lee",
+     "description": "A beginner-friendly course to kickstart your journey into React Native development.",
+     "enrollmentStatus": "true",
+     "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.CpqV_ckJdO6bruyR09jhZAHaEK&pid=Api&P=0&h=220",
+     "duration": "8 weeks",
+     "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+     "location": "Online",
+     "prerequisites": ["Basic understanding of HTML and CSS"],
+     "syllabus": [
+       {
+         "week": 1,
+         "topic": "Getting Started with React Native",
+         "content": "Introduction to React Native and setting up your first project."
+       },
+       {
+         "week": 2,
+         "topic": "Styling in React Native",
+         "content": "Exploring styling options and components in React Native."
+       },
+       {
+         "week": 3,
+         "topic": "State and Props",
+         "content": "Understanding state and props in React Native applications."
+       },
+       {
+         "week": 4,
+         "topic": "Handling User Input",
+         "content": "Implementing forms and handling user input in React Native."
+       },
+       {
+         "week": 5,
+         "topic": "Component Lifecycle",
+         "content": "Exploring the lifecycle of React Native components."
+       },
+       {
+         "week": 6,
+         "topic": "Building a Mini Project",
+         "content": "Applying learned concepts to build a small React Native project."
+       }
+     ]
+   },
+   {
+     "id": 4,
+     "name": "Mobile App Design Principles",
+     "instructor": "David Martinez",
+     "description": "Explore the fundamental principles of designing user-friendly mobile applications.",
+     "enrollmentStatus": "true",
+     "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.lg4_C9qi6ZaC59UWSc2GwQHaFP&pid=Api&P=0&h=220",
+     "duration": "8 weeks",
+     "schedule": "Fridays, 3:00 PM - 5:00 PM",
+     "location": "In-person",
+     "prerequisites": ["Basic understanding of UI/UX concepts"],
+     "syllabus": [
+       {
+         "week": 1,
+         "topic": "Introduction to Mobile Design",
+         "content": "Understanding the principles of mobile application design."
+       },
+       {
+         "week": 2,
+         "topic": "User Experience (UX) Design",
+         "content": "Exploring UX design practices for mobile apps."
+       },
+       {
+         "week": 3,
+         "topic": "Mobile Accessibility",
+         "content": "Designing accessible interfaces for mobile applications."
+       },
+       {
+         "week": 4,
+         "topic": "Prototyping and Testing",
+         "content": "Creating prototypes and conducting usability testing."
+       },
+       {
+         "week": 5,
+         "topic": "Material Design Principles",
+         "content": "Applying material design principles to mobile app interfaces."
+       },
+       {
+         "week": 6,
+         "topic": "Final Project",
+         "content": "Applying design principles to a real-world mobile app project."
+       }
+     ]
+   },
+   {
+     "id": 5,
+     "name": "Mobile App Testing Techniques",
+     "instructor": "Eva Rodriguez",
+     "description": "Learn effective testing techniques for ensuring the quality of your mobile applications.",
+     "enrollmentStatus": "false",
+     "thumbnail": "https://tse4.mm.bing.net/th?id=OIP.2bzKnQsE2w9G-tqNhO5SdAHaFA&pid=Api&P=0&h=220",
+     "duration": "8 weeks",
+     "schedule": "Sundays, 2:00 PM - 4:00 PM",
+     "location": "Online",
+     "prerequisites": ["Basic knowledge of mobile app development"],
+     "syllabus": [
+       {
+         "week": 1,
+         "topic": "Introduction to Mobile App Testing",
+         "content": "Overview of mobile app testing and its importance."
+       },
+       {
+         "week": 4,
+         "topic": "Prototyping and Testing",
+         "content": "Creating prototypes and conducting usability testing."
+       },
+       {
+         "week": 5,
+         "topic": "Material Design Principles",
+         "content": "Applying material design principles to mobile app interfaces."
+       },
+       {
+         "week": 6,
+         "topic": "Final Project",
+         "content": "Applying design principles to a real-world mobile app project."
+       }
+     ]
+   },
+   {
+      "id": 6,
+      "name": " python for Beginners",
+      "instructor": "Catherine Lee",
+      "description": "A beginner-friendly course to kickstart your journey into  python development.",
+      "enrollmentStatus": "true",
+      "thumbnail": "https://tse3.mm.bing.net/th?id=OIP.PZp47W_mKqXubp_WHAksygHaDI&pid=Api&P=0&h=220",
+      "duration": "8 weeks",
+      "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic understanding of HTML and CSS"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Getting Started with React Native",
+          "content": "Introduction to React Native and setting up your first project."
+        },
+        {
+          "week": 2,
+          "topic": "Styling in React Native",
+          "content": "Exploring styling options and components in React Native."
+        },
+        {
+          "week": 3,
+          "topic": "State and Props",
+          "content": "Understanding state and props in React Native applications."
+        },
+        {
+          "week": 4,
+          "topic": "Handling User Input",
+          "content": "Implementing forms and handling user input in React Native."
+        },
+        {
+          "week": 5,
+          "topic": "Component Lifecycle",
+          "content": "Exploring the lifecycle of React Native components."
+        },
+        {
+          "week": 6,
+          "topic": "Building a Mini Project",
+          "content": "Applying learned concepts to build a small React Native project."
+        }
+      ]
+    }
+]
