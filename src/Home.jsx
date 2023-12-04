@@ -15,7 +15,7 @@ const Home = () => {
     
    return (
       <div>
-         <h1>All Courses</h1>
+         <h1 className='text-2xl my-10 text-orange-300 text-center font-bold'>All Courses</h1>
          <div className='grid md:grid-cols-3 gap-4 py-5'>
 
          {
